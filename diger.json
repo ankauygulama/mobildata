@@ -1,14 +1,15 @@
 [
-  {
-    "appName": "Yasin Suresi Sesli",
-    "packageName": "com.parsfilo.yasinsuresi",
-    "appIcon": "https://play-lh.googleusercontent.com/6HMjc0fsyjVuUmgGq1MFSnw0iFyeEcLEfi07L4cH-qZV6VuOcTw3fY-ZgsBgpoqHy4U=w48-h48-rw"
-  },
-  {
+	{
     "appName": "Namaz Sureleri Sesli",
     "packageName": "com.parsfilo.namazsurelerivedualarsesli",
     "appIcon": "https://play-lh.googleusercontent.com/-gW9Z1NcSbE0PMhlFDqxKxBgUkbmy4XKl0MjBCjKwftg61gJrpUUC_vAsSow9YpQJXAX=w48-h48-rw"
   },
+	{
+    "appName": "Yasin Suresi Sesli",
+    "packageName": "com.parsfilo.yasinsuresi",
+    "appIcon": "https://play-lh.googleusercontent.com/6HMjc0fsyjVuUmgGq1MFSnw0iFyeEcLEfi07L4cH-qZV6VuOcTw3fY-ZgsBgpoqHy4U=w48-h48-rw"
+  },
+
   {
     "appName": "Ayet-el Kürsi Sesli",
     "packageName": "com.parsfilo.ayetelkursi",
