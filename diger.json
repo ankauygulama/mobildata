@@ -1,5 +1,15 @@
 [
   {
+    "appName": "Ismi Azam Duası - Sesli",
+    "packageName": "com.parsfilo.ismiazamduasi",
+    "appIcon": "https://play-lh.googleusercontent.com/iy_d3XO8VHAUfSByfrqZF7-muJwM34N8KJF7nvdbBrabI6uHFCf_Pfh-Lx1z5xOwQuQ=w240-h480-rw"
+  },
+  {
+    "appName": "Kenzül Arş Duası - Sesli",
+    "packageName": "com.parsfilo.kenzularsduasi",
+    "appIcon": "https://play-lh.googleusercontent.com/K8dU5UIVj-k_ZF4o7MbMovE_KO8BqYBrfGoJ718cSgG9Yd1tVlm3Gk9IP7pp-WD6xdeB=w240-h480-rw"
+  },
+  {
     "appName": "Fetih Suresi Sesli",
     "packageName": "com.parsfilo.fetihsuresi",
     "appIcon": "https://play-lh.googleusercontent.com/OdPbp-37-NXNeH2NFiM1R08kYLTxE-645SbeWJnpcLIkmYFLA5655qzeH6Ad4Pzpst4=w240-h480-rw"
@@ -10,53 +20,43 @@
     "appIcon": "https://play-lh.googleusercontent.com/jAZ_lU5aLKD-7Wla_q7pZfqNJ4Ejgt4XjvzmUX-eY0-NRrHoiqxvmHlAH4hWna8Esy0=w240-h480-rw"
   },
   {
-    "appName": "Yasin Suresi Sesli",
-    "packageName": "com.parsfilo.fetihsuresi",
-    "appIcon": "https://play-lh.googleusercontent.com/6HMjc0fsyjVuUmgGq1MFSnw0iFyeEcLEfi07L4cH-qZV6VuOcTw3fY-ZgsBgpoqHy4U=w48-h48-rw"
-  },
-  {
-    "appName": "Namaz Sureleri Sesli",
-    "packageName": "com.parsfilo.namazsurelerivedualarsesli",
-    "appIcon": "https://play-lh.googleusercontent.com/-gW9Z1NcSbE0PMhlFDqxKxBgUkbmy4XKl0MjBCjKwftg61gJrpUUC_vAsSow9YpQJXAX=w48-h48-rw"
-  },
-  {
-    "appName": "Ayet-el Kürsi Sesli",
-    "packageName": "com.parsfilo.ayetelkursi",
-    "appIcon": "https://play-lh.googleusercontent.com/6MDYO9nKElfzE_AT_jI_YZ2_MMav2DCHtTruupcYmXwVlsfxEDhVVFzFBsJzOe7AZw=w48-h48-rw"
-  },
-  {
     "appName": "Namaz Ezan Vakitleri",
     "packageName": "com.parsfilo.namazvakitleri",
-    "appIcon": "https://play-lh.googleusercontent.com/iud0TsXDxwLOIgO99qEi2zxzw-vpj7jadD7eJnE5nLpncjBZsEQQFW3f9yodytQTug=w48-h48-rw"
+    "appIcon": "https://play-lh.googleusercontent.com/iud0TsXDxwLOIgO99qEi2zxzw-vpj7jadD7eJnE5nLpncjBZsEQQFW3f9yodytQTug=w240-h480-rw"
   },
   {
     "appName": "Mucize Dualar",
     "packageName": "com.parsfilo.mucizedualar",
-    "appIcon": "https://play-lh.googleusercontent.com/X3APlgeaOHS9GUtBjDhtFJ_EnbqQO7n3wOCRnMmRe2p7yjAHw-K0xGgkLATFlcflnzE=w48-h48-rw"
+    "appIcon": "https://play-lh.googleusercontent.com/X3APlgeaOHS9GUtBjDhtFJ_EnbqQO7n3wOCRnMmRe2p7yjAHw-K0xGgkLATFlcflnzE=w240-h480-rw"
   },
   {
-    "appName": "Esma-ül Hüsna",
+    "appName": "Ayet-el Kürsi Sesli",
+    "packageName": "com.parsfilo.ayetelkursi",
+    "appIcon": "https://play-lh.googleusercontent.com/P-HzD0D-6K_C7U1xygz9DQcAnWvSiyx07vgSYfM3DeTy18HSaUlXFSGWXkQRddcdK1Y=w240-h480-rw"
+  },
+  {
+    "appName": "Yasin Suresi - Sesli",
     "packageName": "com.parsfilo.esmaulhusna",
-    "appIcon": "https://play-lh.googleusercontent.com/s08s4QT3QtHrgGogtwwknkaRC6c_ieoSqHsKIMXAds9llNIV4F8dsU38gpmv5h8How=w48-h48-rw"
+    "appIcon": "https://play-lh.googleusercontent.com/6HMjc0fsyjVuUmgGq1MFSnw0iFyeEcLEfi07L4cH-qZV6VuOcTw3fY-ZgsBgpoqHy4U=w240-h480-rw"
   },
   {
-    "appName": "Kıble",
-    "packageName": "com.parsfilo.kible",
-    "appIcon": "https://play-lh.googleusercontent.com/hvL3UJnNYE8FxmiB_X3E_rVJb9xd67ZJtHdDdvnWR2eGTZs7WHY3inGMzFTwOR7mmbg=w48-h48-rw"
-  },
-  {
-    "appName": "Kuran-ı Kerim",
-    "packageName": "com.parsfilo.kuran_kerim",
-    "appIcon": "https://play-lh.googleusercontent.com/OiNtYgxJWh3db9T9cCzeDKHYErdqH7o8cNgtoIvgURTuCLiGvsPmo1aTukKZK9_6Ib41=w48-h48-rw"
+    "appName": "Namaz Sureleri Sesli",
+    "packageName": "com.parsfilo.namazsurelerivedualarsesli",
+    "appIcon": "https://play-lh.googleusercontent.com/-gW9Z1NcSbE0PMhlFDqxKxBgUkbmy4XKl0MjBCjKwftg61gJrpUUC_vAsSow9YpQJXAX=w240-h480-rw"
   },
   {
     "appName": "Zikirmatik",
     "packageName": "com.parsfilo.zikirmatik",
-    "appIcon": "https://play-lh.googleusercontent.com/zC5JYO3yWqn7G9OXUOLFT9cBYmSTKNuDgTWRci-5R8trc3rvFexX9HDyHKaSEDuOkPE=w48-h48-rw"
+    "appIcon": "https://play-lh.googleusercontent.com/zC5JYO3yWqn7G9OXUOLFT9cBYmSTKNuDgTWRci-5R8trc3rvFexX9HDyHKaSEDuOkPE=w240-h480-rw"
   },
   {
-    "appName": "İmsakiye",
-    "packageName": "com.parsfilo.imsakiye",
+    "appName": "Kuran-ı Kerim",
+    "packageName": "com.parsfilo.kuran_kerim",
+    "appIcon": "https://play-lh.googleusercontent.com/OiNtYgxJWh3db9T9cCzeDKHYErdqH7o8cNgtoIvgURTuCLiGvsPmo1aTukKZK9_6Ib41=w240-h480-rw"
+  },
+  {
+    "appName": "Kıble",
+    "packageName": "com.parsfilo.kible",
     "appIcon": "https://play-lh.googleusercontent.com/Qh17BswnX_j-Y_sbs-PEnElUzrlv3z4VGApKxka0kzDLCoAxiXJHQJua6P45bbuaVQ=w48-h48-rw"
   }
 ]
